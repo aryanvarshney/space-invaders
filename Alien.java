@@ -28,7 +28,7 @@ public class Alien extends Entity
 
 		public Image getAlienImg()
 	{
-		ImageIcon ic = new ImageIcon("Users/deepti/Downloads/spaceInvadersAlien.jpg");
+		ImageIcon ic = new ImageIcon(<Alien.png>); //Use Alien.png
 		return ic.getImage();
 	}
 
